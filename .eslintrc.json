@@ -25,7 +25,8 @@
     "@typescript-eslint/semi": "off",
     "@typescript-eslint/member-delimiter-style": "off",
     "@typescript-eslint/quotes": "off",
-    "@typescript-eslint/space-before-function-paren": "off"
+    "@typescript-eslint/space-before-function-paren": "off",
+    "@typescript-eslint/comma-dangle": "off"
     // "": "off"
     // "@typescript-eslint/no-floating-promises": "off",
     // "@typescript-eslint/comma-spacing": "off",
