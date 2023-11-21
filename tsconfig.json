@@ -15,7 +15,7 @@
     "paths": {
       "@/*": [
         "*"
-      ],
+      ]
     },
     "allowJs": true,
     "skipLibCheck": true,
@@ -23,7 +23,6 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
     "noEmit": true
   },
   "include": [
